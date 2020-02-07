@@ -1,5 +1,5 @@
 name: visible_opacity
-description: A new Flutter package project.
+description: Control visibility with a crossfade between multiple widgets.
 version: 0.0.1
 author: Reme Le Hane
 homepage: https://github.com/RemeJuan/VisibleOpactity
