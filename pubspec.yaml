@@ -1,6 +1,6 @@
 name: visible_opacity
 description: Control visibility with a crossfade between multiple widgets.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/RemeJuan/VisibleOpactity
 
 environment:
