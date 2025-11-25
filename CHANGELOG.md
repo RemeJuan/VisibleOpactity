@@ -1,4 +1,4 @@
-## [2.0.0] - 2025
+## [2.0.0] - 15 January 2025
 
 * Updated SDK constraints to support Dart 3.x and Flutter 3.x+
 * Migrated to null safety
