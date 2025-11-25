@@ -3,6 +3,7 @@
 * Updated SDK constraints to support Dart 3.x and Flutter 3.x+
 * Migrated to null safety
 * Updated code to use modern Dart syntax (super.key, required parameters)
+* **BREAKING**: Changed constructor parameters from optional to required named parameters (`visible` and `child` are now required)
 
 ## [1.0.0+2] - 07 February 2020.
 
