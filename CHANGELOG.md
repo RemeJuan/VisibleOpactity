@@ -1,3 +1,9 @@
+## [2.0.0] - 2025
+
+* Updated SDK constraints to support Dart 3.x and Flutter 3.x+
+* Migrated to null safety
+* Updated code to use modern Dart syntax (super.key, required parameters)
+
 ## [1.0.0+2] - 07 February 2020.
 
 * Added LICENSE.
